@@ -19,7 +19,7 @@ Fortalecer a comunidade, incentivar o aprendizado contínuo e criar um ambiente 
 
 # Projetos Devstão
 
-## [Como conntribuir](../doc/CONTRIBUTING.md)
+## [Como contribuir](../doc/CONTRIBUTING.md)
 
 
 # Projetos Atuais:
