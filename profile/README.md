@@ -24,5 +24,7 @@ Fortalecer a comunidade, incentivar o aprendizado contínuo e criar um ambiente 
 # Projetos Atuais:
 ## Biblioteca DEVstão:
 - [Repositório frontend](https://github.com/Devstao/devstao-biblioteca-ui)
-- [Rrepositório backend](https://github.com/Devstao/devstao-biblioteca-ui)
+- [Rrepositório backend](https://github.com/Devstao/devstao-biblioteca-api)
+
+## Outros projetos
 - [ContaFlow](https://github.com/Devstao/ContaFlow)
